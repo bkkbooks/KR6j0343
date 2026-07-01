@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6j0343/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0343/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 最上大乘金剛大教寶王經
+  identifiers:
+    krp: KR6j0343
+    cbeta: T20n1128
+    cbeta_old_id: T20n1128
+    authorityid: CA0003985
+    json_key: T1128
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1128.xml
+    old_id: T20n1128
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0343_000-T.yaml, hash: 'sha256:8e55534c85b31180c2c4fbc28ba1aa6053ecf69c5dcbd994cc611d24085efe3b'}
+  - {seq: 1, filename: KR6j0343_001-T.yaml, hash: 'sha256:19b1b5702a661f59fcda1f25ec802687856b34695ca4edc959955329de0b8755'}
+  - {seq: 2, filename: KR6j0343_002-T.yaml, hash: 'sha256:f58b92c372bbc5004beb2a7f8e555d7aa3c8f66b43ace44c4941722c110466a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0343_000-T.markers.yaml, hash: 'sha256:4c8a09f6312e6ad377cdf3d58187d6a6bd11c9b7c57ecf601a4af0e2e96cca8b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0343_001-T.markers.yaml, hash: 'sha256:c5bf1fa8c4905548c42186be09c2bad0e7a45227d1c21db1cf6c8c67b4a21a06'}
+  - {seq: 2, role: markers, filename: assets/KR6j0343_002-T.markers.yaml, hash: 'sha256:712d76266069d801def8dc68e3af4c0b27426d9c0f889c82dc3628568fcafbb5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0343_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3652
+  label: 最上大乘金剛大教寶王經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0343_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4651
+  label: 最上大乘金剛大教寶王經卷下
+  type: juan
+  level: 1
+hash: sha256:4fa661e9ccd0aab824720d19c64869b88896e9b783ebbb13418a070b440f904a

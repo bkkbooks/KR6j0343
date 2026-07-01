@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0343/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 最上大乘金剛大教寶王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1128.xml
+    old_id: T20n1128
+hash: sha256:8e55534c85b31180c2c4fbc28ba1aa6053ecf69c5dcbd994cc611d24085efe3b
